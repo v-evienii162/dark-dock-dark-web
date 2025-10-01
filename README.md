@@ -77,4 +77,6 @@ Set up **2FA** with a 6-digit PIN for added security, protecting your account fr
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/sprites/queue.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
 
-Update:  18.09.2025 url is operational
+
+
+Update:  01.10.2025
